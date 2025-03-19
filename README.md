@@ -1,4 +1,4 @@
-# movie trick (lol)
+# cliche movie trick
  script that demystifyies the matrix lol :-)
 
  open cmd as admin
